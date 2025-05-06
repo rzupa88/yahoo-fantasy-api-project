@@ -1,0 +1,331 @@
+{
+  "timestamp": "2025-05-06T16:36:13.715283",
+  "season": 2025,
+  "data": {
+    "33393": {
+      "player": [
+        {
+          "player_id": "33393",
+          "name": "Ja'Marr Chase",
+          "editorial_team_full_name": "Cincinnati Bengals",
+          "display_position": "WR",
+          "uniform_number": "1",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "30972": {
+      "player": [
+        {
+          "player_id": "30972",
+          "name": "Saquon Barkley",
+          "editorial_team_full_name": "Philadelphia Eagles",
+          "display_position": "RB",
+          "uniform_number": "26",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40055": {
+      "player": [
+        {
+          "player_id": "40055",
+          "name": "Bijan Robinson",
+          "editorial_team_full_name": "Atlanta Falcons",
+          "display_position": "RB",
+          "uniform_number": "7",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "32692": {
+      "player": [
+        {
+          "player_id": "32692",
+          "name": "Justin Jefferson",
+          "editorial_team_full_name": "Minnesota Vikings",
+          "display_position": "WR",
+          "uniform_number": "18",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "32687": {
+      "player": [
+        {
+          "player_id": "32687",
+          "name": "CeeDee Lamb",
+          "editorial_team_full_name": "Dallas Cowboys",
+          "display_position": "WR",
+          "uniform_number": "88",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40059": {
+      "player": [
+        {
+          "player_id": "40059",
+          "name": "Jahmyr Gibbs",
+          "editorial_team_full_name": "Detroit Lions",
+          "display_position": "RB",
+          "uniform_number": "0",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "29279": {
+      "player": [
+        {
+          "player_id": "29279",
+          "name": "Derrick Henry",
+          "editorial_team_full_name": "Baltimore Ravens",
+          "display_position": "RB",
+          "uniform_number": "22",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "33500": {
+      "player": [
+        {
+          "player_id": "33500",
+          "name": "Amon-Ra St. Brown",
+          "editorial_team_full_name": "Detroit Lions",
+          "display_position": "WR",
+          "uniform_number": "14",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40168": {
+      "player": [
+        {
+          "player_id": "40168",
+          "name": "Puka Nacua",
+          "editorial_team_full_name": "Los Angeles Rams",
+          "display_position": "WR",
+          "uniform_number": "12",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40883": {
+      "player": [
+        {
+          "player_id": "40883",
+          "name": "Brian Thomas Jr.",
+          "editorial_team_full_name": "Jacksonville Jaguars",
+          "display_position": "WR",
+          "uniform_number": "7",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "33477": {
+      "player": [
+        {
+          "player_id": "33477",
+          "name": "Nico Collins",
+          "editorial_team_full_name": "Houston Texans",
+          "display_position": "WR",
+          "uniform_number": "12",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40899": {
+      "player": [
+        {
+          "player_id": "40899",
+          "name": "Malik Nabers",
+          "editorial_team_full_name": "New York Giants",
+          "display_position": "WR",
+          "uniform_number": "1",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "41791": {
+      "player": [
+        {
+          "player_id": "41791",
+          "name": "Ashton Jeanty",
+          "editorial_team_full_name": "Las Vegas Raiders",
+          "display_position": "RB",
+          "uniform_number": "2",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "32711": {
+      "player": [
+        {
+          "player_id": "32711",
+          "name": "Jonathan Taylor",
+          "editorial_team_full_name": "Indianapolis Colts",
+          "display_position": "RB",
+          "uniform_number": "28",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40878": {
+      "player": [
+        {
+          "player_id": "40878",
+          "name": "Brock Bowers",
+          "editorial_team_full_name": "Las Vegas Raiders",
+          "display_position": "TE",
+          "uniform_number": "89",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "31856": {
+      "player": [
+        {
+          "player_id": "31856",
+          "name": "Josh Jacobs",
+          "editorial_team_full_name": "Green Bay Packers",
+          "display_position": "RB",
+          "uniform_number": "8",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40118": {
+      "player": [
+        {
+          "player_id": "40118",
+          "name": "De'Von Achane",
+          "editorial_team_full_name": "Miami Dolphins",
+          "display_position": "RB",
+          "uniform_number": "28",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "31883": {
+      "player": [
+        {
+          "player_id": "31883",
+          "name": "A.J. Brown",
+          "editorial_team_full_name": "Philadelphia Eagles",
+          "display_position": "WR",
+          "uniform_number": "11",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40993": {
+      "player": [
+        {
+          "player_id": "40993",
+          "name": "Bucky Irving",
+          "editorial_team_full_name": "Tampa Bay Buccaneers",
+          "display_position": "RB",
+          "uniform_number": "7",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "33963": {
+      "player": [
+        {
+          "player_id": "33963",
+          "name": "Drake London",
+          "editorial_team_full_name": "Atlanta Falcons",
+          "display_position": "WR",
+          "uniform_number": "5",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "30121": {
+      "player": [
+        {
+          "player_id": "30121",
+          "name": "Christian McCaffrey",
+          "editorial_team_full_name": "San Francisco 49ers",
+          "display_position": "RB",
+          "uniform_number": "23",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "34010": {
+      "player": [
+        {
+          "player_id": "34010",
+          "name": "Trey McBride",
+          "editorial_team_full_name": "Arizona Cardinals",
+          "display_position": "TE",
+          "uniform_number": "85",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40908": {
+      "player": [
+        {
+          "player_id": "40908",
+          "name": "Ladd McConkey",
+          "editorial_team_full_name": "Los Angeles Chargers",
+          "display_position": "WR",
+          "uniform_number": "15",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "30977": {
+      "player": [
+        {
+          "player_id": "30977",
+          "name": "Josh Allen",
+          "editorial_team_full_name": "Buffalo Bills",
+          "display_position": "QB",
+          "uniform_number": "17",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    },
+    "40041": {
+      "player": [
+        {
+          "player_id": "40041",
+          "name": "Jaxon Smith-Njigba",
+          "editorial_team_full_name": "Seattle Seahawks",
+          "display_position": "WR",
+          "uniform_number": "11",
+          "stats": {},
+          "metadata": {}
+        }
+      ]
+    }
+  }
+}

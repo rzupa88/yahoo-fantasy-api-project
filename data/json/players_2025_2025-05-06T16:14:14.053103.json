@@ -1,0 +1,306 @@
+{
+  "timestamp": "2025-05-06T16:14:14.053103",
+  "season": 2025,
+  "data": {
+    "33393": {
+      "player": [
+        {
+          "player_id": "33393",
+          "name": {
+            "full": "Ja'Marr Chase"
+          },
+          "editorial_team_full_name": "Cincinnati Bengals",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "30972": {
+      "player": [
+        {
+          "player_id": "30972",
+          "name": {
+            "full": "Saquon Barkley"
+          },
+          "editorial_team_full_name": "Philadelphia Eagles",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "40055": {
+      "player": [
+        {
+          "player_id": "40055",
+          "name": {
+            "full": "Bijan Robinson"
+          },
+          "editorial_team_full_name": "Atlanta Falcons",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "32692": {
+      "player": [
+        {
+          "player_id": "32692",
+          "name": {
+            "full": "Justin Jefferson"
+          },
+          "editorial_team_full_name": "Minnesota Vikings",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "32687": {
+      "player": [
+        {
+          "player_id": "32687",
+          "name": {
+            "full": "CeeDee Lamb"
+          },
+          "editorial_team_full_name": "Dallas Cowboys",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "40059": {
+      "player": [
+        {
+          "player_id": "40059",
+          "name": {
+            "full": "Jahmyr Gibbs"
+          },
+          "editorial_team_full_name": "Detroit Lions",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "29279": {
+      "player": [
+        {
+          "player_id": "29279",
+          "name": {
+            "full": "Derrick Henry"
+          },
+          "editorial_team_full_name": "Baltimore Ravens",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "40168": {
+      "player": [
+        {
+          "player_id": "40168",
+          "name": {
+            "full": "Puka Nacua"
+          },
+          "editorial_team_full_name": "Los Angeles Rams",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "33500": {
+      "player": [
+        {
+          "player_id": "33500",
+          "name": {
+            "full": "Amon-Ra St. Brown"
+          },
+          "editorial_team_full_name": "Detroit Lions",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "41791": {
+      "player": [
+        {
+          "player_id": "41791",
+          "name": {
+            "full": "Ashton Jeanty"
+          },
+          "editorial_team_full_name": "Las Vegas Raiders",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "40883": {
+      "player": [
+        {
+          "player_id": "40883",
+          "name": {
+            "full": "Brian Thomas Jr."
+          },
+          "editorial_team_full_name": "Jacksonville Jaguars",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "33477": {
+      "player": [
+        {
+          "player_id": "33477",
+          "name": {
+            "full": "Nico Collins"
+          },
+          "editorial_team_full_name": "Houston Texans",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "40899": {
+      "player": [
+        {
+          "player_id": "40899",
+          "name": {
+            "full": "Malik Nabers"
+          },
+          "editorial_team_full_name": "New York Giants",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "32711": {
+      "player": [
+        {
+          "player_id": "32711",
+          "name": {
+            "full": "Jonathan Taylor"
+          },
+          "editorial_team_full_name": "Indianapolis Colts",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "40878": {
+      "player": [
+        {
+          "player_id": "40878",
+          "name": {
+            "full": "Brock Bowers"
+          },
+          "editorial_team_full_name": "Las Vegas Raiders",
+          "display_position": "TE"
+        }
+      ]
+    },
+    "31856": {
+      "player": [
+        {
+          "player_id": "31856",
+          "name": {
+            "full": "Josh Jacobs"
+          },
+          "editorial_team_full_name": "Green Bay Packers",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "40118": {
+      "player": [
+        {
+          "player_id": "40118",
+          "name": {
+            "full": "De'Von Achane"
+          },
+          "editorial_team_full_name": "Miami Dolphins",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "31883": {
+      "player": [
+        {
+          "player_id": "31883",
+          "name": {
+            "full": "A.J. Brown"
+          },
+          "editorial_team_full_name": "Philadelphia Eagles",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "40993": {
+      "player": [
+        {
+          "player_id": "40993",
+          "name": {
+            "full": "Bucky Irving"
+          },
+          "editorial_team_full_name": "Tampa Bay Buccaneers",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "33963": {
+      "player": [
+        {
+          "player_id": "33963",
+          "name": {
+            "full": "Drake London"
+          },
+          "editorial_team_full_name": "Atlanta Falcons",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "30121": {
+      "player": [
+        {
+          "player_id": "30121",
+          "name": {
+            "full": "Christian McCaffrey"
+          },
+          "editorial_team_full_name": "San Francisco 49ers",
+          "display_position": "RB"
+        }
+      ]
+    },
+    "40908": {
+      "player": [
+        {
+          "player_id": "40908",
+          "name": {
+            "full": "Ladd McConkey"
+          },
+          "editorial_team_full_name": "Los Angeles Chargers",
+          "display_position": "WR"
+        }
+      ]
+    },
+    "34010": {
+      "player": [
+        {
+          "player_id": "34010",
+          "name": {
+            "full": "Trey McBride"
+          },
+          "editorial_team_full_name": "Arizona Cardinals",
+          "display_position": "TE"
+        }
+      ]
+    },
+    "30977": {
+      "player": [
+        {
+          "player_id": "30977",
+          "name": {
+            "full": "Josh Allen"
+          },
+          "editorial_team_full_name": "Buffalo Bills",
+          "display_position": "QB"
+        }
+      ]
+    },
+    "40041": {
+      "player": [
+        {
+          "player_id": "40041",
+          "name": {
+            "full": "Jaxon Smith-Njigba"
+          },
+          "editorial_team_full_name": "Seattle Seahawks",
+          "display_position": "WR"
+        }
+      ]
+    }
+  }
+}
